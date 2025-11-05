@@ -1,0 +1,10 @@
+# 基础计算库
+torch>=1.10.0  # 模型构建与训练
+numpy>=1.21.0  # 数值计算
+# 数据可视化库（训练曲线、消融实验图表）
+matplotlib>=3.5.0
+seaborn>=0.12.0
+# Jupyter Notebook 支持（若需在线运行.ipynb）
+jupyter>=1.0.0
+# 数据加载辅助（可选，确保Dataset/DataLoader正常运行）
+torchvision>=0.11.0
