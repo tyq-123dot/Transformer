@@ -1,7 +1,7 @@
 
 ## 一、作业要求匹配
-- 实现模块：multi-head self-attention、position-wise FFN、残差+LayerNorm、位置编码（作业1.1）
-- 实验要求：小数据集训练（Loss下降）、消融实验、代码开源（作业1.1、1.3、1.13）
+- 实现模块：multi-head self-attention、position-wise FFN、残差+LayerNorm、位置编码
+- 实验要求：小数据集训练（Loss下降）、消融实验、代码开源
 
 ## 二、硬件要求
 - CPU：Intel i5+/AMD Ryzen 5+（小数据集训练约15分钟/10轮）
